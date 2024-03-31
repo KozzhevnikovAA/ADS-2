@@ -20,6 +20,7 @@ return 1;
 } else {
 return a * fact(a - 1);
 }
+  
 }
 
 double calcItem(double b, uint16_t a) {
