@@ -34,7 +34,6 @@ for (i = 0; i <= count; i++) {
 schet += calcItem(b, i);
 }
 return schet;
-  
 }
 
 double sinn(double b, uint16_t count) {
